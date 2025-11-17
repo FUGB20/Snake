@@ -1,0 +1,3 @@
+C:\Users\Dell\source\repos\Snake\x64\Debug\raylib.dll
+C:\Users\Dell\source\repos\Snake\x64\Debug\glfw3.dll
+C:\Users\Dell\source\repos\Snake\Snake\x64\Debug\Snake.vcxproj.Up2Date
